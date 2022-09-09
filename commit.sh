@@ -6,3 +6,5 @@ do
    git commit -m "🌟" --allow-empty
    echo "$i"
 done
+
+git push origin main -f
